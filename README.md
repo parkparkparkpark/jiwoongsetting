@@ -1,4 +1,4 @@
-# Junho setting
+#: setting
 
 For faster clone:
 `git clone --depth 1 git@github.com:junhocho/junhosetting.git`
